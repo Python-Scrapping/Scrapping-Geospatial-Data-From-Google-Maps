@@ -1,0 +1,5 @@
+,Nama,ID,Latitude,Longitude,Rating,Tipe,Alamat
+0,Indomaret Maesa,ChIJEbrSUTV1hzIRa2Lsgv4obeo,1.4867074,124.861687,4.5,"['convenience_store', 'food', 'point_of_interest', 'store', 'establishment']","Jl. Maesa No.6, Paal Dua, Kota Manado"
+1,Indomaret,ChIJYf7DJUt1hzIRqqqU6b03_b8,1.4895411,124.8616201,0.0,"['point_of_interest', 'establishment']","Paal Dua, Manado City"
+2,Indomaret Kombos Timur,ChIJT8zIFE11hzIR7U0t-b4TWMs,1.494088,124.8609215,4.5,"['convenience_store', 'food', 'point_of_interest', 'store', 'establishment']","Jl. Arie Lasut, Kombos Tim., Kota Manado"
+3,ATM BCA Indomaret Kombos,ChIJzak-FU11hzIRzBCYGaVhAy4,1.4942103,124.8609295,0.0,"['atm', 'finance', 'point_of_interest', 'establishment']","East Kombos, Manado City"
